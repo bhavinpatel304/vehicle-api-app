@@ -14,6 +14,16 @@
     <li>composer run dev</li>
 </ul>
 
+<p>important urls</p>
+<ul>
+    <li>Laravel APP :: http://localhost/</li>
+    <li>phpmyadmin :: http://localhost:8080/</li>
+</ul>
+
+<p>Screenshot</p>
+<img src="screenshot.png" />
+
+
 <p>if system is not windows 10 then uncomment</p>
 <pre>
 ********************************
