@@ -4,6 +4,7 @@
 <p>Show/Create/Delete methods</p>
 <p>run commands</p>
 <ul>
+    <li>./vendor/bin/sail up -d</li>
     <li>./vendor/bin/sail bash</li>
     <li>php artisan key:generate --ansi</li>
     <li>composer install</li>
